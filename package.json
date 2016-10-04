@@ -4,15 +4,15 @@
   "keywords" : ["mws", "amazon", "marketplace"],
   "homepage" : "_",
   "version" : "0.9.5",
-  "author" : "Eibbor Srenduas <robbies@eibbors.net> (http://eibbors.net)",
-  "contributors" : [ "David F. Sklar <dfsklar@gmail.com>" ],
+  "author" : "David F. Sklar <dfsklar@gmail.com>",
+  "contributors" : [ "PhuND <itghost90@gmail.com>" ],
   "main" : "./lib/mws",
   "directories" : {
     "lib": "./lib"
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/dfsklar/mws-js.git"
+    "url" : "https://github.com/phund/mws-js.git"
   },
   "dependencies" : {
     "xml2js" : ">=0.1.13"
